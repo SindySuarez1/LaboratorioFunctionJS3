@@ -1,0 +1,20 @@
+{
+  "name": "laboratoriofunctionjs5",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SindySuarez1/LaboratorioFunctionJS3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SindySuarez1/LaboratorioFunctionJS3/issues"
+  },
+  "homepage": "https://github.com/SindySuarez1/LaboratorioFunctionJS3#readme",
+  "description": ""
+}
