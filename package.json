@@ -16,5 +16,8 @@
     "url": "https://github.com/SindySuarez1/LaboratorioFunctionJS3/issues"
   },
   "homepage": "https://github.com/SindySuarez1/LaboratorioFunctionJS3#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
 }
